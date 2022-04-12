@@ -85,7 +85,7 @@ iii) The NN potential can also be used to predict normal mode frequencies. The
     
 
 
-### How to cite:=================================================================
+### How to cite: =================================================================
 
 When using this PhysNet PES for FAM and FAD, please cite the following papers:
 
@@ -98,7 +98,7 @@ anharmonic vibrational dynamics and dissociation energies for the formic acid
 monomer and dimer", Phys. Chem. Chem. Phys., 2022, 24, 5269-5281.
 
 
-### Contact:=====================================================================
+### Contact: =====================================================================
 
 If you have any questions about the PES free to contact Silvan Kaeser
 (silvan.kaeser@unibas.ch)
