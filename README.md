@@ -63,6 +63,7 @@ ii) "NNCalculator": in ase a calculator is a black box taking atomic number and
 
 i) "fam.xyz & fad.xyz": xyz files of the monomer and dimer. The structures are very
     close to the optimum geometry.
+    
 ii) "output_fam.dat": File containing the output for the prediction of fam.xyz using the
     PhysNet model.
     
@@ -73,9 +74,11 @@ i) Energy, force and dipole moment prediction of a molecular geometry using
    units of the prediction are the same as the ones used in the training data
    set. Here, the energies are printed in eV, the forces in eV/angstrom and the
    dipole moments in elementary charges*angstrom. 
+   
 ii) Having a full dimensional potential one probably wants to perform geometry
     optimizations for different molecules. This can be done with the
     "optimize.py" script.
+    
 iii) The NN potential can also be used to predict normal mode frequencies. The
     frequencies can be calculated using ASEs "vibrations" class.  A possible
     implementation is given in "ase_vibrations.py".
